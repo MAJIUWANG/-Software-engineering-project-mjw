@@ -1,0 +1,10 @@
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.csprojAssemblyReference.cache
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.sudokuplay.resources
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.Properties.Resources.resources
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.csproj.GenerateResource.cache
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\bin\Debug\sudokuplay.exe.config
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\bin\Debug\sudokuplay.exe
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\bin\Debug\sudokuplay.pdb
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.exe
+C:\Users\mac\Desktop\加油！！\sudokuplay\sudokuplay\obj\Debug\sudokuplay.pdb
